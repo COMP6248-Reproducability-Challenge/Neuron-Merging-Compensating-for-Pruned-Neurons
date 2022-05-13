@@ -1,5 +1,4 @@
 # COMP6248-Reproducibility-Challenge
-# COMP6248-Reproducibility-Challenge
 
 There are 4 people in our group: Jiajun Duan, Hanwen Zhang, Ziming Zhang and Zewei Sheng. This code is made for our group, the original code is [here](https://github.com/friendshipkim/neuron-merging).
 
